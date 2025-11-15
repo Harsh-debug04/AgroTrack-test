@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "eyebrow": "Starting in Bihar",
+    "title": "Agrotrack — Ground-truth data for smarter agriculture",
+    "subtitle": "We connect farmers, NGOs, and agri-enterprises with actionable crop timelines and insights.",
+    "cta": "Join Early Access",
+    "partner": "Partner with us"
+  },
+  "about": {
+    "title": "About Agrotrack",
+    "lead": "Agrotrack is a farmer-first data intelligence and connectivity platform built to modernize agricultural planning.",
+    "story": "We are five B.Tech founders with agricultural roots and internship experience in the sector. We saw the same problem again and again: companies and institutions act on incomplete information, while farmers lack timely advice. Agrotrack builds a privacy-first data layer that turns field events into insights — so companies can plan better and farmers get the right support at the right time.",
+    "mission": "Mission",
+    "missionText": "To bridge the information gap between fields and organizations, improving farm productivity and enabling smarter agri-decision making.",
+    "foundersTitle": "Meet the Founders"
+  },
+  "pilot": {
+    "title": "Pilot Program — Bihar",
+    "desc": "Our first pilot focuses on rice farmers in Bihar. We'll measure sowing windows, stage timelines, and targeted outreach effectiveness."
+  },
+  "forNgos": {
+    "title": "Partnering with NGOs & FPOs",
+    "desc": "We offer free analytics dashboards for partner NGOs and tools to digitize farmer records."
+  },
+  "nav": {
+    "about": "About",
+    "pilot": "Pilot Program",
+    "forNgos": "For NGOs",
+    "join": "Join Early Access"
+  }
+}

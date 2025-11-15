@@ -1,0 +1,45 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="800" height="300" fill="#87CEEB"/>
+
+    <circle cx="700" cy="80" r="50" fill="#FFD700"/>
+
+    <ellipse cx="150" cy="100" rx="70" ry="30" fill="white"/>
+    <ellipse cx="200" cy="120" rx="80" ry="35" fill="white"/>
+    <ellipse cx="600" cy="150" rx="90" ry="40" fill="white"/>
+    <ellipse cx="650" cy="130" rx="75" ry="30" fill="white"/>
+
+    <path d="M0 250 L0 450 L800 450 L800 280 C600 350 400 350 0 250 Z" fill="#6B8E23"/>
+
+    <rect x="100" y="150" width="150" height="100" fill="#CD853F"/>
+    <polygon points="90,150 175,90 260,150" fill="#8B4513"/>
+    <rect x="160" y="200" width="30" height="50" fill="#A0522D"/>
+    <rect x="115" y="180" width="40" height="40" fill="white" stroke="#8B4513" stroke-width="2"/>
+    <rect x="195" y="180" width="40" height="40" fill="white" stroke="#8B4513" stroke-width="2"/>
+
+    <rect x="300" y="170" width="200" height="120" fill="#B22222"/>
+    <polygon points="290,170 400,110 510,170" fill="#A52A2A"/>
+    <rect x="380" y="220" width="40" height="70" fill="#8B4513"/>
+    <circle cx="400" cy="255" r="5" fill="gray"/>
+    <rect x="320" y="190" width="30" height="30" fill="white" stroke="#8B4513" stroke-width="2"/>
+    <rect x="450" y="190" width="30" height="30" fill="white" stroke="#8B4513" stroke-width="2"/>
+
+    <circle cx="650" cy="200" r="40" fill="#228B22"/>
+    <rect x="640" y="240" width="20" height="60" fill="#8B4513"/>
+    <circle cx="700" cy="220" r="35" fill="#228B22"/>
+    <rect x="690" y="250" width="20" height="50" fill="#8B4513"/>
+
+    <rect x="550" y="290" width="10" height="40" fill="#8B4513"/>
+    <rect x="580" y="290" width="10" height="40" fill="#8B4513"/>
+    <rect x="610" y="290" width="10" height="40" fill="#8B4513"/>
+    <line x1="550" y1="300" x2="620" y2="300" stroke="#8B4513" stroke-width="3"/>
+    <line x1="550" y1="315" x2="620" y2="315" stroke="#8B4513" stroke-width="3"/>
+
+    <path d="M60 380 Q70 360 80 380 T100 380 Q100 400 90 400 Z" fill="#4B0082"/>
+    <circle cx="85" cy="375" r="5" fill="white"/>
+    <rect x="75" y="395" width="5" height="10" fill="black"/>
+    <rect x="85" y="395" width="5" height="10" fill="black"/>
+
+    <path d="M150 400 Q160 380 170 400 T190 400 Q190 415 170 415 Z" fill="#FFC0CB"/>
+    <circle cx="180" cy="405" r="3" fill="#DDA0DD"/>
+
+</svg>

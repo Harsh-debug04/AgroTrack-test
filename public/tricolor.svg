@@ -1,0 +1,10 @@
+<!-- frontend/public/india-flag.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="40" viewBox="0 0 60 40">
+  <rect width="60" height="40" fill="#FF9933"/>
+  <rect y="13.333" width="60" height="13.333" fill="#FFFFFF"/>
+  <rect y="26.666" width="60" height="13.333" fill="#138808"/>
+  <!-- simple Ashoka Chakra ring (stylized) -->
+  <circle cx="30" cy="20" r="3.8" fill="#054187"/>
+  <circle cx="30" cy="20" r="3.3" fill="#FFFFFF"/>
+  <circle cx="30" cy="20" r="3.1" fill="#054187"/>
+</svg>
